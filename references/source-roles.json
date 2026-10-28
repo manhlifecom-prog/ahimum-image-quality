@@ -1,0 +1,83 @@
+{
+  "asOf": "2026-10-27",
+  "sourceThreadTitle": "Mô tả dự án đồ trẻ em",
+  "latestPriority": "Ảnh thật back thật người thật là yếu tố quan trọng nhất; Back phải thật; Phụ kiện phải chuẩn.",
+  "sources": {
+    "originalProducts": "https://drive.google.com/drive/folders/1pPMFZxTZ8ZivOyj09zBDpOGR0MhOY2-0",
+    "ownerNamedApprovedSamples": "https://drive.google.com/drive/folders/1lZYOy7QVDLcUPeZlf3uXpiKQOiwpVpWH",
+    "realismReferenceFolder": "https://drive.google.com/drive/folders/1nYg7h1Eeupt1-M62bG2ko1WRiGLedhSm",
+    "qualityRubric": "https://docs.google.com/document/d/1KAlcGBP1NZbynwA9W0PCUnLLZd55jPNQWITWhKqGjC4/edit",
+    "conceptWorkflow": "https://docs.google.com/document/d/15n9RGzbCNnZHLFQbE17-33oSLKWiZKGPRLpgTrU__Kg/edit"
+  },
+  "verifiedFolderInventory": {
+    "ownerNamedApprovedSamples": {
+      "count": 3,
+      "read": "Drive listing27Oct; individual contents not visually inspected in skill creation"
+    },
+    "realismReferenceFolder": {
+      "count": 13,
+      "read": "Drive listing27Oct; individual contents not visually inspected in skill creation"
+    }
+  },
+  "localRealismImages": [
+    {
+      "file": "assets/realism-01.png",
+      "sha256": "910c5ed75fc5824fa6c9f7b91e72ce5fbae56cf41c0c72e925a285691e5b3e0a",
+      "role": "Owner-provided realism benchmark on2026-10-27; not blanket approval of generated images",
+      "observation": [
+        "Real source child and natural expression",
+        "Actual cloth folds and variable sheen",
+        "Hand-object/ground relationship must be checked per new image"
+      ]
+    },
+    {
+      "file": "assets/realism-02.png",
+      "sha256": "2fa5c60fb543fa67c4562b0cf052f276af577519435f7786962bf9f0382ab134",
+      "role": "Owner-provided realism benchmark on2026-10-27; not blanket approval of generated images",
+      "observation": [
+        "Real source child and natural expression",
+        "Actual cloth folds and variable sheen",
+        "Hand-object/ground relationship must be checked per new image"
+      ]
+    },
+    {
+      "file": "assets/realism-03.png",
+      "sha256": "ef5d190429678a728f9bca5af6e18f573de1b8b965be4f2f56efa44031b0a4ca",
+      "role": "Owner-provided realism benchmark on2026-10-27; not blanket approval of generated images",
+      "observation": [
+        "Real source child and natural expression",
+        "Actual cloth folds and variable sheen",
+        "Hand-object/ground relationship must be checked per new image"
+      ]
+    },
+    {
+      "file": "assets/realism-04.png",
+      "sha256": "dd243b9c2776cb6ac216424b7618dbab3112c2a818b3ada6162971f8da313265",
+      "role": "Owner-provided realism benchmark on2026-10-27; not blanket approval of generated images",
+      "observation": [
+        "Real source child and natural expression",
+        "Actual cloth folds and variable sheen",
+        "Hand-object/ground relationship must be checked per new image"
+      ]
+    },
+    {
+      "file": "assets/realism-05.png",
+      "sha256": "9d9ccd44e14c06f07040edfb7bd36166a2f4eccd1cc7f8db8acb4a9c4021f0d5",
+      "role": "Owner-provided realism benchmark on2026-10-27; not blanket approval of generated images",
+      "observation": [
+        "Real source child and natural expression",
+        "Actual cloth folds and variable sheen",
+        "Hand-object/ground relationship must be checked per new image"
+      ]
+    }
+  ],
+  "projectFiles": [
+    "creative-ops/creative-workflow-v1.json",
+    "creative-ops/creative-learning.md",
+    "creative-ops/nhan-selection-policy.json",
+    "creative-ops/quality-gates.json",
+    "creative-ops/all-models/source-model-registry.json",
+    "creative-ops/all-models/current-direction.json"
+  ],
+  "portability": "Use project files when available; bundled locks and references support isolated use. Private approval evidence remains in project, not this portable package."
+}

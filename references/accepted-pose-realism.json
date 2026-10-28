@@ -1,0 +1,22 @@
+[
+  {
+    "assetId": "P01",
+    "version": 3,
+    "file": "assets/pose-realism-tet-seated-v3.png",
+    "sha256": "ab9093d33a5d99c79db253384a76f9eac39f8cfd1c749459e0b49ca74943fa29",
+    "ownerFeedback": "Nhìn khá thật đấy, lưu vào skill",
+    "feedbackDate": "2026-10-27",
+    "scope": "Positive realism/pose-interaction reference; not full product/material/campaign approval",
+    "commercialApproved": false
+  },
+  {
+    "assetId": "P02",
+    "version": 3,
+    "file": "assets/pose-realism-wedding-card-v3.png",
+    "sha256": "819d71e703ad7365402cc3844f36e669bd6eac3147f4f4f2017fb97b0cf07dc5",
+    "ownerFeedback": "Nhìn khá thật đấy, lưu vào skill",
+    "feedbackDate": "2026-10-27",
+    "scope": "Positive realism/pose-interaction reference; not full product/material/campaign approval",
+    "commercialApproved": false
+  }
+]

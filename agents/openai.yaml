@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ahimum · Ảnh thật & đúng sản phẩm"
+  short_description: "Tạo ảnh Ahimum thật người, thật nền, đúng mẫu và vải"
+  default_prompt: "Dùng $ahimum-image-quality tạo bộ ảnh Ahimum theo ảnh gốc và bối cảnh thật, rồi kiểm chất lượng từng ảnh."

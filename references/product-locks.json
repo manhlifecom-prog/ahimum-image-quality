@@ -1,0 +1,246 @@
+{
+  "snapshotDate": "2026-10-27",
+  "sourceFolder": "https://drive.google.com/drive/folders/1pPMFZxTZ8ZivOyj09zBDpOGR0MhOY2-0",
+  "warning": "Visual grouping only, not confirmed commercial SKUs or fiber composition. Refresh against actual Drive originals.",
+  "families": [
+    {
+      "id": "L01",
+      "title": "Gile đỏ/xanh · áo ngà tay dài · quần dài trắng",
+      "strictLookIds": [
+        "L01-A",
+        "L01-B"
+      ],
+      "representative": "IMG_5329.JPG",
+      "sourcePhotoNames": [
+        "IMG_5327.JPG",
+        "IMG_5329.JPG",
+        "IMG_5342.JPG",
+        "IMG_5344.JPG",
+        "IMG_5352.JPG",
+        "IMG_5353.JPG",
+        "IMG_5366.JPG",
+        "IMG_5367.JPG",
+        "IMG_5368.JPG",
+        "IMG_5369.JPG",
+        "IMG_5370.JPG",
+        "IMG_5371.JPG",
+        "IMG_5373.JPG",
+        "IMG_5374.JPG"
+      ]
+    },
+    {
+      "id": "L02",
+      "title": "Gile đỏ/xanh · sơ mi trắng tay ngắn · quần short",
+      "strictLookIds": [
+        "L02-A"
+      ],
+      "representative": "IMG_5385.JPG",
+      "sourcePhotoNames": [
+        "IMG_5375.JPG",
+        "IMG_5383.JPG",
+        "IMG_5384.JPG",
+        "IMG_5385.JPG",
+        "IMG_5447.JPG",
+        "IMG_5448.JPG",
+        "IMG_5449.JPG"
+      ]
+    },
+    {
+      "id": "L03",
+      "title": "Gile đỏ/xanh · sơ mi hoa tay ngắn · quần short",
+      "strictLookIds": [
+        "L03-A"
+      ],
+      "representative": "IMG_5393.JPG",
+      "sourcePhotoNames": [
+        "IMG_5390.JPG",
+        "IMG_5391.JPG",
+        "IMG_5393.JPG",
+        "IMG_5396.JPG",
+        "IMG_5413.JPG",
+        "IMG_5414.JPG",
+        "IMG_5415.JPG"
+      ]
+    },
+    {
+      "id": "L04",
+      "title": "Áo dài xám · yếm cổ đen · mấn đen",
+      "strictLookIds": [
+        "L04-A"
+      ],
+      "representative": "IMG_5434.JPG",
+      "sourcePhotoNames": [
+        "IMG_5416.JPG",
+        "IMG_5434.JPG",
+        "IMG_5435.JPG",
+        "IMG_5436.JPG"
+      ]
+    },
+    {
+      "id": "L05",
+      "title": "Áo dài xám · yếm cổ đỏ · mấn đỏ",
+      "strictLookIds": [
+        "L05-A"
+      ],
+      "representative": "IMG_5437.JPG",
+      "sourcePhotoNames": [
+        "IMG_5437.JPG",
+        "IMG_5438.JPG",
+        "IMG_5439.JPG",
+        "IMG_5440.JPG"
+      ]
+    }
+  ],
+  "strictLooks": [
+    {
+      "id": "L01-A",
+      "familyId": "L01",
+      "title": "Áo ngà thân dài · cổ khuyết V",
+      "representative": "IMG_5329.JPG",
+      "pairPrimary": "IMG_5329.JPG",
+      "soloPrimary": "IMG_5353.JPG",
+      "neckline": "Cổ ngà thấp đứng có khe V phía trước, không lá cổ sơ mi. Thân áo ngà dài dưới gile và xẻ hai bên; không hàng cúc giữa rõ như L01-B.",
+      "material": "Gile bề mặt bóng nhẹ với vân chìm nhỏ; áo ngà mỏng, rủ mềm, ánh bóng không đều và sóng nhăn/oval rộng. Quần dài trắng ngà. Không suy đoán thành phần sợi.",
+      "footwear": "Dép quai đen, đế nâu; không đổi thành tất/giày.",
+      "differences": [
+        "Không dùng cổ trụ cài cúc và gấu áo ngắn của L01-B.",
+        "Không dùng áo sơ mi trắng/hoa tay ngắn và short của L02/L03."
+      ],
+      "sourcePhotoNames": [
+        "IMG_5327.JPG",
+        "IMG_5329.JPG",
+        "IMG_5342.JPG",
+        "IMG_5344.JPG",
+        "IMG_5352.JPG",
+        "IMG_5353.JPG",
+        "IMG_5366.JPG"
+      ],
+      "commercialSKU": null,
+      "fiberComposition": null
+    },
+    {
+      "id": "L01-B",
+      "familyId": "L01",
+      "title": "Áo ngà thân ngắn hơn · cổ trụ cài cúc",
+      "representative": "IMG_5368.JPG",
+      "pairPrimary": "IMG_5368.JPG",
+      "soloPrimary": "IMG_5371.JPG",
+      "neckline": "Cổ trụ ngà có cúc giữa; hàng cúc thân áo nhìn thấy dưới gile, gấu áo ngắn hơn và cong nhẹ. Đây không phải cổ khuyết V liền thân dài L01-A.",
+      "material": "Áo ngà tay dài có bề mặt sóng nhăn bóng mềm; gile đỏ/xanh cùng hệ họa tiết chim và tua xanh; quần dài trắng ngà. Chưa xác nhận thành phần sợi.",
+      "footwear": "Dép quai đen, đế nâu.",
+      "differences": [
+        "Giữ cúc cổ/cúc thân và tỷ lệ gấu theo chính ảnh nguồn.",
+        "Không lấy thân áo dài/khe V của L01-A để thay cho bộ này."
+      ],
+      "sourcePhotoNames": [
+        "IMG_5367.JPG",
+        "IMG_5368.JPG",
+        "IMG_5369.JPG",
+        "IMG_5370.JPG",
+        "IMG_5371.JPG",
+        "IMG_5373.JPG",
+        "IMG_5374.JPG"
+      ],
+      "commercialSKU": null,
+      "fiberComposition": null
+    },
+    {
+      "id": "L02-A",
+      "familyId": "L02",
+      "title": "Sơ mi trắng trơn tay ngắn + short",
+      "representative": "IMG_5385.JPG",
+      "pairPrimary": "IMG_5385.JPG",
+      "soloPrimary": "IMG_5447.JPG",
+      "neckline": "Bé gile đỏ: hai lá cổ trắng đầu bo tròn (native5447/5385); bé gile xanh: lá cổ trắng nhọn rõ hơn (native5385/5375). Không ép cả hai cùng kiểu lá cổ.",
+      "material": "Sơ mi trắng trơn tay ngắn, bề mặt ít bóng hơn áo ngà. Gile có ánh bóng và họa tiết chìm. Đỏ: short đen gấu xắn/túi lớn; xanh: short ngà gấu xắn/túi trước. Không suy đoán cotton hay sợi.",
+      "footwear": "Tất trắng cổ cao; đỏ giày đen buộc dây, xanh giày đen một quai ngang.",
+      "differences": [
+        "Không thêm họa tiết hoa lên tay áo trắng trơn.",
+        "Không dùng quần dài/dép hoặc cổ ngà L01."
+      ],
+      "sourcePhotoNames": [
+        "IMG_5375.JPG",
+        "IMG_5383.JPG",
+        "IMG_5384.JPG",
+        "IMG_5385.JPG",
+        "IMG_5447.JPG",
+        "IMG_5448.JPG",
+        "IMG_5449.JPG"
+      ],
+      "commercialSKU": null,
+      "fiberComposition": null
+    },
+    {
+      "id": "L03-A",
+      "familyId": "L03",
+      "title": "Sơ mi hoa pastel tay ngắn + short",
+      "representative": "IMG_5393.JPG",
+      "pairPrimary": "IMG_5393.JPG",
+      "soloPrimary": "IMG_5415.JPG",
+      "neckline": "Lá cổ trắng/ngà lật ra ngoài rõ trên cả hai bé; giữ hình dáng cụ thể theo5393, không lấy cổ khuyết V hay cổ trụ.",
+      "material": "Sơ mi nền ngà với mảng hoa/lá pastel cam/hồng/xanh trên tay và thân; độ mềm và ánh nhẹ theo nguồn. Đỏ mặc short đen, xanh short ngà, đều có gấu xắn. Thành phần sợi chưa xác nhận.",
+      "footwear": "Tất trắng cổ cao; đỏ giày đen buộc dây, xanh giày đen một quai.",
+      "differences": [
+        "Không biến áo hoa thành áo trắng trơn L02.",
+        "Không dùng áo ngà tay dài/quần dài L01."
+      ],
+      "sourcePhotoNames": [
+        "IMG_5390.JPG",
+        "IMG_5391.JPG",
+        "IMG_5393.JPG",
+        "IMG_5396.JPG",
+        "IMG_5413.JPG",
+        "IMG_5414.JPG",
+        "IMG_5415.JPG"
+      ],
+      "commercialSKU": null,
+      "fiberComposition": null
+    },
+    {
+      "id": "L04-A",
+      "familyId": "L04",
+      "title": "Áo dài xám · yếm đen",
+      "representative": "IMG_5434.JPG",
+      "pairPrimary": null,
+      "soloPrimary": "IMG_5434.JPG",
+      "neckline": "Cổ trong ngà có khe V; phía ngoài là yếm/cổ trang trí ĐEN rộng, viền trắng, hình mây và mô-típ trắng, phần giữa kéo dài xuống ngực.",
+      "material": "Áo dài tay dài chuyển xám nhạt ở trên sang xám đen ở dưới, mảng in rồng tối và hoa sen sáng; thân rủ thẳng, xẻ hai bên. Bề mặt có ánh nhẹ; không suy đoán thành phần sợi.",
+      "footwear": "Quần dài trắng ngà, dép quai đen/đế nâu, mấn đen.",
+      "differences": [
+        "Không đổi yếm/mấn đen thành đỏ.",
+        "Không thêm gile chim, tua xanh, áo sơ mi hoặc short."
+      ],
+      "sourcePhotoNames": [
+        "IMG_5416.JPG",
+        "IMG_5434.JPG",
+        "IMG_5435.JPG",
+        "IMG_5436.JPG"
+      ],
+      "commercialSKU": null,
+      "fiberComposition": null
+    },
+    {
+      "id": "L05-A",
+      "familyId": "L05",
+      "title": "Áo dài xám · yếm đỏ",
+      "representative": "IMG_5437.JPG",
+      "pairPrimary": null,
+      "soloPrimary": "IMG_5437.JPG",
+      "neckline": "Cổ trong ngà có khe V; yếm/cổ trang trí ĐỎ rộng, viền trắng và hình mây/mô-típ trắng, phần giữa kéo xuống ngực.",
+      "material": "Thân áo dài tay dài loang xám nhạt tới xám đen, mảng in rồng tối và hoa sen sáng theo vị trí nguồn; mềm và có ánh nhẹ. Không suy đoán thành phần sợi.",
+      "footwear": "Quần dài trắng ngà, dép quai đen/đế nâu, mấn đỏ.",
+      "differences": [
+        "Không đổi yếm/mấn đỏ thành đen.",
+        "Không thêm gile chim hoặc lấy vân áo ngà L01 áp lên thân áo dài in."
+      ],
+      "sourcePhotoNames": [
+        "IMG_5437.JPG",
+        "IMG_5438.JPG",
+        "IMG_5439.JPG",
+        "IMG_5440.JPG"
+      ],
+      "commercialSKU": null,
+      "fiberComposition": null
+    }
+  ]
+}

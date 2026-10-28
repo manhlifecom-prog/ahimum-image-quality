@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "modelId": null,
+  "strictLookId": null,
+  "scope": null,
+  "story": null,
+  "expectedImageCount": 5,
+  "requiresRealBackground": true,
+  "setReview": {
+    "identity": {
+      "status": "needs-check",
+      "evidence": null
+    },
+    "product": {
+      "status": "needs-check",
+      "evidence": null
+    },
+    "material": {
+      "status": "needs-check",
+      "evidence": null
+    },
+    "lighting": {
+      "status": "needs-check",
+      "evidence": null
+    },
+    "camera": {
+      "status": "needs-check",
+      "evidence": null
+    },
+    "story_variety": {
+      "status": "needs-check",
+      "evidence": null
+    }
+  },
+  "images": [
+    {
+      "assetId": null,
+      "version": null,
+      "path": null,
+      "sha256": null,
+      "strictLookId": null,
+      "method": null,
+      "backgroundMethod": null,
+      "sources": {
+        "person_product": [
+          {
+            "path": null,
+            "sha256": null,
+            "origin": null
+          }
+        ],
+        "fabric": [
+          {
+            "path": null,
+            "sha256": null,
+            "origin": null
+          }
+        ],
+        "background": [
+          {
+            "path": null,
+            "sha256": null,
+            "origin": null
+          }
+        ]
+      },
+      "sourceSuitabilityEvidence": null,
+      "scores": [
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ],
+      "total": null,
+      "gates": {
+        "anatomy": {
+          "status": "needs-check",
+          "evidence": null
+        },
+        "identity": {
+          "status": "needs-check",
+          "evidence": null
+        },
+        "product": {
+          "status": "needs-check",
+          "evidence": null
+        },
+        "material": {
+          "status": "needs-check",
+          "evidence": null
+        },
+        "physics": {
+          "status": "needs-check",
+          "evidence": null
+        },
+        "text_logo": {
+          "status": "needs-check",
+          "evidence": null
+        },
+        "obvious_ai": {
+          "status": "needs-check",
+          "evidence": null
+        },
+        "background_realism": {
+          "status": "needs-check",
+          "evidence": null
+        },
+        "prop_context": {
+          "status": "needs-check",
+          "evidence": null
+        },
+        "commercial_suitability": {
+          "status": "needs-check",
+          "evidence": null
+        },
+        "photographic_realism": {
+          "status": "needs-check",
+          "evidence": null
+        }
+      },
+      "inspected": [],
+      "hardRejects": [],
+      "unresolved": [
+        "Not yet visually reviewed."
+      ],
+      "status": "needs-check",
+      "reviewer": null,
+      "reviewedAt": null,
+      "humanApproved": false,
+      "humanApproval": null,
+      "captureReview": {
+        "expressionPoseGroup": null,
+        "fabricFingerprintRefs": [],
+        "regeneratedRegions": [],
+        "limits": null
+      }
+    }
+  ]
+}
