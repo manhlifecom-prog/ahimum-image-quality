@@ -19,4 +19,4 @@ Trên ChatGPT: đính kèm ảnh người/trang phục/vải/nền và ảnh chu
 
 Mỗi ảnh >85/100 và không có lỗi bắt buộc. Cổng photographic_realism chặn ảnh còn nhìn AI dù điểm tổng cao. Không có prompt bảo đảm mọi tư thế và chất liệu; thử từng nhóm và kiểm file xuất. Script chỉ kiểm hồ sơ/hash/điểm, không tự nhìn ảnh hay chứng nhận Nhàn duyệt.
 
-Repository private vì có ảnh tham chiếu dự án. Không chứa credential/token hoặc nhật ký chat riêng.
+Repository public theo yêu cầu của chủ sở hữu; ai có link đều có thể đọc và tải. Không chứa credential/token hoặc nhật ký chat riêng.
